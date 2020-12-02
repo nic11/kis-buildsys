@@ -1,0 +1,16 @@
+{
+    "functions": [
+        {
+            "return_type": "int",
+            "name": "add",
+            "params": "int a, int b",
+            "expression": "a + b"
+        },
+        {
+            "return_type": "long long",
+            "name": "substract",
+            "params": "int first, int second",
+            "expression": "first - second"
+        }
+    ]
+}
